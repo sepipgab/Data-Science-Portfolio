@@ -4,12 +4,12 @@ Stan Chen Dec 14, 2019
 
 ---
 ### Introduction
-This project is created to showcase the possibilities of performing time-series market prediction with Python scripts. Python is a general purpose programming language which in this case I'm using it to train time series predictive models to fill in the missing piece in corporate process solutions: **Forecasting time series analysis**.
+This project is created to showcase the possibilities of performing time-series market prediction with Python scripts. Python is a general purpose programming language which in this case I'm using to train time series predictive models to fill in the missing piece in corporate process solutions: **Forecasting time series analysis**.
 
 
 ### Why use this python procedure to perform this process?
 
-While it's nice to use specialized software such as SAS or IBM SPSS, licensing these softwares could be expensive. 
+While it's nice to use specialized software such as SAS or IBM SPSS, licensing this software could be expensive. 
 No matter what tools or technologies are used in this process, it doesn't change the business process logic **as long as the process is done right**. I personally find it **flexible,cost effective and faster** to perform this process with python scripts. 
 
 ---
